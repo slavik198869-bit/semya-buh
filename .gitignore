@@ -1,0 +1,9 @@
+*.bak
+*.bak2-*
+*.tmp
+Thumbs.db
+desktop.ini
+wrangler.toml
+.env
+.env.*
+leads.local.env
